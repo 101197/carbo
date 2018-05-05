@@ -1,0 +1,22 @@
+Site kpop
+  -plein de groupes/artiste référencés
+    -liste des MV de chaque groupes
+    -paroles, compositeurs, etc dispo
+    -liste des emission ou ils apparaissent
+    -cover les plus vues?
+    -lien avec vlive?
+
+  -formulaire pour proposer de nouveaux groupes/artistes
+
+  -systeme inscription-connexion
+    admin: peut modifier direct les infos et ajouter des trucs
+    non admin: acces aux favoris, a des quizz(?), recoit des alertes au sujet des groupes suivis
+
+  -fanart avec credit envezrs l'artiste
+    Evidmeent, validation par l'admin requis eet demande faite aupres de l'artiste
+
+  -systeme avec un forum
+
+  -salle de chat
+
+  
