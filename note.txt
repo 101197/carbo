@@ -19,4 +19,20 @@ Site kpop
 
   -salle de chat
 
+  artiste.php
+  nav.php
+  mv.php
+  parole.php
+  info.php
+  disque.php
+  emission.php
+  cover.php
+  vlive.php
+  inscription.php
+  connexion.php
+  nouveauxartistes.php
+  modifierartiste.php
+  ajouterartiste.php
+  profil.php
+  fanart.php
   
